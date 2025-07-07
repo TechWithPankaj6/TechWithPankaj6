@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pankaj Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
+<img align="right"alt="coding" width="500" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techwithpankaj6&label=Profile%20views&color=0e75b6&style=flat" alt="techwithpankaj6" /> </p>
 
